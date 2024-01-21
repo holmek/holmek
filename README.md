@@ -17,6 +17,8 @@ I'm currently on an exciting journey at KEA - Copenhagen School of Design and Te
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## GitHub Stats
-📊 **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=holmek&theme=dark)
+📊 **GitHub Streak:** 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=holmek&theme=dark)
 
-📈 **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holmek&layout=compact&theme=dark)
+📈 **Top Languages:** 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holmek&layout=compact&theme=dark)
